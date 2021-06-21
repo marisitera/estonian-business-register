@@ -28,12 +28,11 @@ Avage **Äriregistri seadistus** ning seadistage:
 -   Rekvisiitide teenuse kasutajanimi - sisestage oma lepinguline kaustajanimi.
 -   Rekvisiitide teenuse parool - sisestage oma lepinguline parool.
 -   E-arve saatmisprofiil - juhul, kui väljastate e-arveid, valige Dokumendi saatmise profiil, mida soovite määrata neile klientidele, kellel on e-arve vastuvõtu võimekus.
--	Vaike riigi/regiooni tähis - Valige väärtuseks "EE".
+-	Vaike riigi/regiooni tähis - valige väärtuseks "EE".
 
-Kui valite **Rakenda vaikeseaded**, siis määratakse automaatselt **Vaike riigi/regiooni tähiseks** "EE" ja kliendi/hankija/kontakti aadressi vormingut kuvatakse 
-**Riigid/regioonid** loendi seadistuse alusel. Lisaks täidetakse vaikeseadetega **Äriregistri teenuse URL** Eesti äriregistri leheküljega.
-Kui te ei soovi aadressi kirjelduses näha linnaosa, muutke äriregistri seadistuses aktiivseks valik **Eemalda linnaosa linna infost**. Selisel juhul, ei kuvata linnaosasid kliendi/hankija/kontaktikaardil.
-
+Kui valite **Rakenda vaikeseaded**, siis määratakse automaatselt **Vaike riigi/regiooni tähiseks** "EE" ja  täidetakse **Äriregistri teenuse URL** Eesti äriregistri leheküljega.
+Kui **Vaike riigi/regiooni tähis** on "EE" siis kliendi/hankija/kontakti aadressi kuvatakse **Riigid/regioonid** loendi seadistuse "EE"alusel.
+Kui te ei soovi kliendi/hankija/kontaktikaardil aadressi kirjelduses näha linnaosa, muutke äriregistri seadistuses aktiivseks valik **Eemalda linnaosa linna infost**.
 
 ## Kuidas kasutada äriregistri päringut
 
@@ -43,7 +42,7 @@ Kui te ei soovi aadressi kirjelduses näha linnaosa, muutke äriregistri seadist
     -   Registreerimisnr.
     -   KM reg. nr.
     -   Dokumendi saatmise profiil - võimadab määrata e-arve profiili neile klientidele, kes on e-arve registris.
-2.  Detailpäringuna uue kliendi/hankija/kontakti loomiseks või olemasoleva kliendi/hankija andmete kontrollimiseks ja uuendamiseks.
+2.  Detailpäringuna uue kliendi/hankija/kontakti loomiseks või olemasoleva kliendi/hankija/kontakti andmete kontrollimiseks ja uuendamiseks.
 
 **Masspäringu** kasutamiseks avage Klientide või Hankijate loend. Soovi korral rakendage filtrid ning käivitage tegevus **Uuenda andmed äriregistrist**. Avanevas päriguaknas määrake, kas soovite, et väljund näitab erinevusi või ka uuendab andmed. Juhul, kui kliendil või hankijal on Registreerimisnr. täitmata, siis päritakse andmeid nime järgi, millest on eemaldatud ’OÜ’ ja ’AS’. Juhul, kui masspäring mõnda ettevõtet äriregistrist ei leidnud (n. kuna nimekuju erineb) või leidis mitu vastet, siis saate nende puhul kasutada detailpäringut, mis võimaldab otsitavat nime korrigeerida ja tulemuste hulgast õige vaste valida.
 
@@ -62,7 +61,7 @@ Akna alumisel paremal osal kuvatakse ettevõtte andmed Business Central-is ning 
 
 Äriregistrist leitud andmete kasutamiseks Business Central-i andmete täitmiseks või uuendamiseks, klikkige soovitud väljade või välja **Vali kõik** järel olevaid nuppe.
 
-Vajadusel saate andmeid redigeerida. Andmete salvestamiseks kliendi/hankija kaardile klikkige **OK**.
+Vajadusel saate andmeid redigeerida. Andmete salvestamiseks kliendi/hankija/kontakti kaardile klikkige **OK**.
 
 ----------
 
