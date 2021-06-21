@@ -24,15 +24,16 @@ E-äriregistrist päritakse järgmised andmed:
 
 Avage **Äriregistri seadistus** ning seadistage:
 
-Kui valite **Rakenda vaikeseaded**, siis määratakse automaatselt **Vaike riigi/regiooni tähiseks** "EE" ja kliendi/hankija/kontakti aadressi vormingut kuvatakse 
-**Riigid/regioonid** loendi seadistuse alusel. Lisaks täidetakse vaikeseadetega **Äriregistri teenuse URL** 
-Kui te ei soovi aadressi kirjelduses näha linnaosa, muutke äriregistri seadistuses aktiivseks märkeruut **Eemalda linnaosa linna infost**.
-
 -   Äriregistri teenuse URL - sisestage äriregistri veebiteenuse aadress. Näiteks: [https://ariregxmlv6.rik.ee/](https://ariregxmlv6.rik.ee/)
 -   Rekvisiitide teenuse kasutajanimi - sisestage oma lepinguline kaustajanimi.
 -   Rekvisiitide teenuse parool - sisestage oma lepinguline parool.
 -   E-arve saatmisprofiil - juhul, kui väljastate e-arveid, valige Dokumendi saatmise profiil, mida soovite määrata neile klientidele, kellel on e-arve vastuvõtu võimekus.
--	  Vaike riigi/regiooni tähis - juhul kui te ei rakendanud vaikeseadeid, lisage väärtuseks "EE".
+-	Vaike riigi/regiooni tähis - Valige väärtuseks "EE".
+
+Kui valite **Rakenda vaikeseaded**, siis määratakse automaatselt **Vaike riigi/regiooni tähiseks** "EE" ja kliendi/hankija/kontakti aadressi vormingut kuvatakse 
+**Riigid/regioonid** loendi seadistuse alusel. Lisaks täidetakse vaikeseadetega **Äriregistri teenuse URL** Eesti äriregistri leheküljega.
+Kui te ei soovi aadressi kirjelduses näha linnaosa, muutke äriregistri seadistuses aktiivseks valik **Eemalda linnaosa linna infost**. Selisel juhul, ei kuvata linnaosasid kliendi/hankija/kontaktikaardil.
+
 
 ## Kuidas kasutada äriregistri päringut
 
