@@ -13,7 +13,7 @@ Päringute tegemiseks tuleb sõlmida päringusüsteemide kasutamise leping. Lepi
 E-äriregistrist päritakse järgmised andmed:
 
 -   Ärinimi
--   Aadress (Tänav, Asula/linn, Maakond, Postiindeks, Riigi/regiooni tähis)
+-   Aadress (Tänav, Asula/linn, Maakond, Postiindeks)
 -   Registreerimisnumber
 -   KM registreerimisnumber
 -   Esitatud majandusaasta aruannete viimased kolm aastanumbrit
